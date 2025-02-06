@@ -25,9 +25,8 @@
 
 ### 📊 Stats
 
-![Souley's GitHub stats](https://github-readme-stats.vercel.app/api?username=souley-now&show_icons=true&theme=gruvbox)
+![Souley's GitHub stats](https://github-readme-stats.vercel.app/api?username=souley-now&showicons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=souley-now&theme=gruvbox&border_radius=4.5) -->
-
 #
 
