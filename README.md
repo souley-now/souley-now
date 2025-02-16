@@ -3,6 +3,9 @@
 **`Systems Engineer | AI & ML Enthusiast |`**
 
 I’m a Systems Engineer dedicated to working with real-world data, one step at a time. With a passion for Artificial Intelligence and Machine Learning, I aim to launch my own Machine Learning consulting firm to help companies solve real-world problems.
+
+---
+
 <p align="left">
    <a href="https://github.com/souley-now?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/souley-now?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -13,6 +16,9 @@ I’m a Systems Engineer dedicated to working with real-world data, one step at 
  <a href="https://www.linkedin.com/in/souley-diallo" target="_blank">
       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+   <a href="https://github.com/souley-now">
+      <img alt="Viewers" src="https://img.shields.io/badge/Visitors-2025-blue?style=for-the-badge&logo=github"/>
+   </a>
 </p>
 
 ---
@@ -22,13 +28,6 @@ I’m a Systems Engineer dedicated to working with real-world data, one step at 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souley-now&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
-
-<p align="left">
-   <a href="https://github.com/souley-now">
-      <img alt="Viewers" src="https://img.shields.io/badge/Visitors-2025-blue?style=for-the-badge&logo=github"/>
-   </a>
-</p>
 
 ---
 
@@ -41,7 +40,6 @@ I’m a Systems Engineer dedicated to working with real-world data, one step at 
 
 <br />
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/souley-now/souley-now/output/snake.svg" alt="Snake animation" />
-
 ---
+
+<img alt="loading" src="https://img.shields.io/badge/-loading-3c9fdf?style=for-the-badge&logo=github&logoColor=white&color=black" />
