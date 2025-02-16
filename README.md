@@ -41,5 +41,5 @@ I’m a Systems Engineer dedicated to working with real-world data, one step at 
 <br />
 
 ---
+<img src="https://raw.githubusercontent.com/souley-now/souley-now/output/snake.svg" alt="Snake animation" />
 
-<img alt="loading" src="https://img.shields.io/badge/-loading-3c9fdf?style=for-the-badge&logo=github&logoColor=white&color=black" />
