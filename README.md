@@ -13,9 +13,13 @@ I’m a Systems Engineer with a passion for solving real-world problems using Ar
    <a href="https://github.com/souley-now?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/souley-now?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
+    <a href="https://www.linkedin.com/in/souley-diallo" target="_blank">
+      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
    <a href="https://github.com/souley-now">
       <img alt="Visitors" src="https://img.shields.io/badge/Visitors-2025-blue?style=for-the-badge&logo=github"/>
    </a>
+  
 </p>
 
 ---
@@ -61,11 +65,6 @@ Feel free to check them out and contribute! Contributions, ideas, and collaborat
 ## 📬 Contact Me
 
 - **Email**: [souley07diallo@gmail.com](mailto:souley07diallo@gmail.com)
-- <p align="left">
-   <a href="https://www.linkedin.com/in/souley-diallo" target="_blank">
-      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-</p>
 
 ---
 
