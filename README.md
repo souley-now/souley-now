@@ -54,7 +54,7 @@ I’m a Systems Engineer with a passion for solving real-world problems using Ar
 
 ## 📚 Projects
 
-Here are some upcoming key projects I'm working on:
+Here are some upcoming key projects:
 
 - **AI and ML Consulting Service**: Building a platform to offer AI/ML solutions to businesses.
 - **ML Models Collection**: A repository with various ML models, from basic regression to deep learning.
