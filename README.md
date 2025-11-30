@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>AI & ML Enthusiast • App Builder</b><br/>
-  I build real-world apps powered by data, machine learning, and user-first design.
+  I build products powered by data, machine learning, and clean user experiences.
 </p>
 
 <p align="center">
-  <i>Currently focused on shipping products that solve problems and help people connect.</i>
+  <i>Currently focused on shipping apps and tools that help people connect and experience the world around them.</i>
 </p>
 
 ---
@@ -27,57 +27,68 @@
 
 ## 👨‍💻 About Me
 
-- I build **AI-driven and community-focused apps**
-- Always exploring ML, product design, and data engineering
-- Open to collabs, ideas, and projects
+- I build **AI-driven** and **community-focused** apps  
+- Interested in **ML**, **data pipelines**, and **product design**  
+- Always open to **collabs**, **ideas**, and **freelance opportunities**
 
 ---
 
 ## 📊 GitHub Snapshot
 
 <div align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api?username=souley-now&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
     height="150"
     alt="GitHub stats"
   />
-
-  <!-- This version immediately picks up existing repos -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=souley-now&layout=compact&langs_count=10&theme=dracula&hide_border=false&cache_seconds=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=souley-now&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false"
     height="150"
     alt="Top languages"
   />
-
 </div>
 
-> 🧠 This languages section is fully automatic.  
-> It reads the languages from your existing repos (no push required).
+> 🧠 The languages card above pulls directly from your repos and **updates automatically** as you push new code.
+
+---
+
+## 🧠 Tech Stack (Auto-Detected)
+
+Instead of hard-coding languages, this section is driven by the card above.  
+If a language shows up there, it’s part of your active stack.
 
 ---
 
 ## 🚀 Current Products
 
-### 🟣 XP-Circles — https://xpcircles.com
+### 🟣 XP-Circles — <a href="https://xpcircles.com">xpcircles.com</a>
+
 A social discovery app that helps people:
-- Find curated experiences
+- Discover curated local “drops” (events/experiences)
 - Join circles around those experiences
-- Connect through short-lived group chats
+- Connect through temporary group chats that keep things fresh
+
+Built with a focus on:
+- Simple onboarding
+- Real-world experiences over endless feeds
+- Local discovery + community
 
 ---
 
-### 🔧 New App (Coming Soon)
-Another app in development that mixes:
-- AI  
-- Social + local discovery  
-- Real-world problem solving
+### 🔧 New App (In Progress)
+
+Working on another app that mixes:
+- **AI**,  
+- **location / discovery**, and  
+- **lightweight social mechanics**
+
+More coming soon…
 
 ---
 
 ## 📬 Contact
 
-- GitHub: https://github.com/souley-now  
-- LinkedIn: https://www.linkedin.com/in/souley-diallo  
+- 💻 GitHub: <a href="https://github.com/souley-now">souley-now</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/souley-diallo">Souley Diallo</a>  
 
-> Thanks for stopping by — check out XP-Circles, star a repo, or say hi 🚀
+> Thanks for stopping by — check out XP-Circles, star a repo, or reach out if you want to build something together 🚀
