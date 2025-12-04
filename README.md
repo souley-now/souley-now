@@ -1,35 +1,37 @@
+<!-- Intro -->
 <h1 align="center">Hey, I'm Souley 👋</h1>
 
 <p align="center">
-  <b>AI & ML Enthusiast • App Builder</b><br/>
-  I build products powered by data, machine learning, and clean user experiences.
+  <b>AI & ML Enthusiast • App Builder • Problem Solver</b><br/>
+  I build apps and tools that use data, AI, and machine learning to solve real-world problems.
 </p>
 
 <p align="center">
-  <i>Currently focused on shipping apps and tools that help people connect and experience the world around them.</i>
+  <i>Currently working on AI/ML-powered projects and applications for modern businesses and communities.</i>
 </p>
 
 ---
 
+<!-- Badges -->
 <p align="center">
   <a href="https://github.com/souley-now?tab=followers">
-    <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/souley-now?style=for-the-badge&logo=person-add&label=Follow"/>
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/souley-now?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/souley-now?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/souley-now?style=for-the-badge&logo=star"/>
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/souley-now?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://www.linkedin.com/in/souley-diallo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/souley-diallo" target="_blank">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 
-- I build **AI-driven** and **community-focused** apps  
-- Interested in **ML**, **data pipelines**, and **product design**  
-- Always open to **collabs**, **ideas**, and **freelance opportunities**
+- Passionate about **AI, Machine Learning, and building practical applications**  
+- Founder-mindset: working on building impactful software and services that solve real problems  
+- Always open to **collaboration**, **freelance work**, or **interesting side projects** involving data, ML, or web apps  
 
 ---
 
@@ -37,7 +39,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=souley-now&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=souley-now&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&hide_border=false"
     height="150"
     alt="GitHub stats"
   />
@@ -48,47 +50,50 @@
   />
 </div>
 
-> 🧠 The languages card above pulls directly from your repos and **updates automatically** as you push new code.
+> 💡 **Languages auto-update:**  
+> The “Top languages” card above pulls directly from your public repos — it updates automatically when you add new repos or change your code base.
 
 ---
 
-## 🧠 Tech Stack (Auto-Detected)
+## 🧰 Tech Stack
 
-Instead of hard-coding languages, this section is driven by the card above.  
-If a language shows up there, it’s part of your active stack.
+### Core Languages  
+<p>
+  <img alt="Python" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="C" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C++" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Java" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+</p>
 
----
-
-## 🚀 Current Products
-
-### 🟣 XP-Circles — <a href="https://xpcircles.com">xpcircles.com</a>
-
-A social discovery app that helps people:
-- Discover curated local “drops” (events/experiences)
-- Join circles around those experiences
-- Connect through temporary group chats that keep things fresh
-
-Built with a focus on:
-- Simple onboarding
-- Real-world experiences over endless feeds
-- Local discovery + community
+### Tools & Platforms  
+<p>
+  <img alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img alt="Azure SQL" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="Docker" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</p>
 
 ---
 
-### 🔧 New App (In Progress)
+## 🚀 Projects & Products
 
-Working on another app that mixes:
-- **AI**,  
-- **location / discovery**, and  
-- **lightweight social mechanics**
+### **XP‑Circles** — <https://xpcircles.com>  
+A project I built to … *(brief description of what XP-Circles does — you can update this to describe the core purpose / features)*.  
+Check it out and feel free to reach out for feedback or collaboration.
 
-More coming soon…
+### New App (in development)  
+I’m currently working on another app — stay tuned for updates. It will leverage my background in ML / data engineering to offer **(choose: analytics / automation / AI-driven / web-based)** solutions.
+
+### Other Repositories & ML Tools  
+You’ll also find:  
+- ML models from basic regression to deep learning — reusable templates for real-world problems  
+- Data-engineering scripts to automate pipelines and data workflows  
+- Smaller Python projects showing clean code, best practices, and practical problem-solving  
 
 ---
 
-## 📬 Contact
+## 📬 Get In Touch
 
-- 💻 GitHub: <a href="https://github.com/souley-now">souley-now</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/souley-diallo">Souley Diallo</a>  
+- 💻 [GitHub](https://github.com/souley-now)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/souley-diallo)
 
-> Thanks for stopping by — check out XP-Circles, star a repo, or reach out if you want to build something together 🚀
+> _Thanks for visiting — feel free to explore my repos, try XP-Circles, open an issue, or drop a message if you want to collaborate._ ✨
