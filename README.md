@@ -35,26 +35,6 @@
 
 ---
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=souley-now&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=souley-now&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
-> 💡 **Languages auto-update:**  
-> The “Top languages” card above pulls directly from your public repos — it updates automatically when you add new repos or change your code base.
-
----
-
 ## 🧰 Tech Stack
 
 ### Core Languages  
@@ -77,8 +57,7 @@
 ## 🚀 Projects & Products
 
 ### **XP‑Circles** — <https://xpcircles.com>  
-A project I built to … *(brief description of what XP-Circles does — you can update this to describe the core purpose / features)*.  
-Check it out and feel free to reach out for feedback or collaboration.
+A local discovery app design to help user find things to do and people to do them with! 
 
 ### New App (in development)  
 I’m currently working on another app — stay tuned for updates. It will leverage my background in ML / data engineering to offer **(choose: analytics / automation / AI-driven / web-based)** solutions.
