@@ -54,21 +54,6 @@
 
 ---
 
-## 🚀 Projects & Products
-
-### **XP‑Circles** — <https://xpcircles.com>  
-A local discovery app design to help user find things to do and people to do them with! 
-
-### New App (in development)  
-I’m currently working on another app — stay tuned for updates. It will leverage my background in ML / data engineering to offer **(choose: analytics / automation / AI-driven / web-based)** solutions.
-
-### Other Repositories & ML Tools  
-You’ll also find:  
-- ML models from basic regression to deep learning — reusable templates for real-world problems  
-- Data-engineering scripts to automate pipelines and data workflows  
-- Smaller Python projects showing clean code, best practices, and practical problem-solving  
-
----
 
 ## 📬 Get In Touch
 
