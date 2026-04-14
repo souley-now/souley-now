@@ -56,20 +56,22 @@
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://www.rizzmoney.app">
+    <img 
+      src="https://image.thum.io/get/width/800/crop/200/https://www.rizzmoney.app" 
+      width="100%"
+    />
+  </a>
+</p>
+
+------
+
+<p align="center">
   <a href="https://www.5150athletics.com" target="_blank">
     <img 
       src="https://image.thum.io/get/width/800/https://www.5150athletics.com" 
       alt="5150 Athletics Preview"
       width="100%" 
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.rizzmoney.app">
-    <img 
-      src="https://image.thum.io/get/width/800/crop/200/https://www.rizzmoney.app" 
-      width="100%"
     />
   </a>
 </p>
